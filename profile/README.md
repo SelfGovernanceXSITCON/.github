@@ -1,19 +1,10 @@
----
-title: SITCON Hackathon 2024 專案 README 模板
-tags: SITCON Hackathon 2024, SITCON,  Hackathon , 2024 ,
-GA: 
----
-# {42號混凝土拌義大利麵助理}
-
-SITCON Hackathon 2024 成果發表範例
-
-> **競賽議題 & 子議題、專案簡介、使用資源為必填**
+# 顛覆傳統投票
 
 ## 競賽議題 & 子議題
-- 團隊名稱：{ noob.py }
-- 成員姓名：{吳秉彥}, {段宇謙}, {莊庭愷}, {陳柏安}
-- 競賽議題：{公創新世代：學生力量與科技共創公民參與}
-    - 子議題：{智慧城市 X 臺北市政府資訊局}
+- 團隊名稱：海碼戰團
+- 成員姓名：[張銀軒](https://github.com/Argentum11), [吳𧙗葳](https://github.com/350016z), [黃見弘](https://github.com/wilsoncodehard)
+- 競賽議題：公創新世代：學生力量與科技共創公民參與
+    - 子議題：學生自治 X SITCON
 
 
 ### 專案簡介
