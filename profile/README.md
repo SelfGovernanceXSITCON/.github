@@ -45,5 +45,18 @@
 ![image](https://hackmd.io/_uploads/SkfcTPvvA.png)
 
 ### 成果展示
-- 可附上其他專案介紹的投影片/文件等等
+- 專案介紹的投影片
+- 功能截圖展示:
+    - 選舉推播公告
+        - 管理員輸入:
+
+          <img src="https://github.com/Voting-Redefined/.github/assets/100845242/6e274288-4301-46b3-b42e-7f540711bf60" width="500"  alt="一張圖片">
+        - 公告畫面如下:
+
+          <img src="https://github.com/Voting-Redefined/.github/assets/100845242/9dc44346-98cc-465c-b7e7-7e333db67706" width="500" alt="一張圖片"> 
+    - 選舉投票介面
+        - 使用者輸入 `/vote` 開啟投票介面
+
+          <img src="https://github.com/Voting-Redefined/.github/assets/100845242/05a81c47-947f-4fa8-9085-db5f430443f0" width="500" alt="一張圖片"> 
+
 > SITCON Hackathon 2024
