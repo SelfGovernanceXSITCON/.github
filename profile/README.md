@@ -45,7 +45,7 @@
 ![image](https://hackmd.io/_uploads/SkfcTPvvA.png)
 
 ### 成果展示
-- 專案介紹的投影片
+- [專案介紹的投影片](SITCON_present.pdf)
 - 功能截圖展示:
     - 選舉推播公告
         - 管理員輸入:
