@@ -69,4 +69,4 @@
           <img src="https://github.com/Voting-Redefined/.github/assets/100845242/882ab001-1488-4fe2-bed7-dac56fd9cc29" width="300" alt="一張圖片"> 
 
 
-> SITCON Hackathon 2024
+> SITCON Hackathon 2024 \_\_INIT\_\_
